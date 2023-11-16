@@ -12,4 +12,7 @@
     <img src="https://img.icons8.com/?size=512&id=13912&format=png" width="50"/>
     </a>
   </div>
+  <h2>Stack</h2>
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,mongodb,nodejs,angular,vite,bash,jquery,php,java,py&perline=5"/>
+
 </div>
