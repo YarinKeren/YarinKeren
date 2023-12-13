@@ -4,13 +4,13 @@
 
 • 🧲 An Autodidact, tech-loving geek, and a team player!
 
-• 🎯 High self-disciplined with a continuous will to learn.
+• 🎯 Dedicated, disciplined, with a continuous will to learn.
 
-• 🏆 I recently built a clone of Wix, **check it out**, it has everything! [Weex](https://weex.onrender.com)
+• 🏆 I recently built a clone of Wix, **check it out**, it's quite cool! [Weex](https://weex.onrender.com)
 
 • 📫 You can reach me at **jarin4378@gmail.com**
 
-• 💙 Fun fact: I'm a snowboard instructor ❄
+• ❄ Fun fact: I'm a snowboard instructor 🏂
 
 <h3>Connect with me:</h3>
 <p>
