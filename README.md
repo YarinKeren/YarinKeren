@@ -2,7 +2,7 @@
 
 <h2>Full Stack Developer</h2>
 
-• 🧲 An Autodidact, tech-loving geek, and a team player!
+• 🧲 An Autodidact, tech-loving geek, and a true team player!
 
 • 🎯 Dedicated, disciplined, with a continuous will to learn.
 
